@@ -57,7 +57,7 @@
 }
 
 .button{
-    display: block;
+        display: block;
 }
 @media screen and (min-width: 768px) {
     .button(
@@ -65,5 +65,5 @@
     )
     .button:first-child{
         border-radius: 40px 0 0 0;
-    }
+    }    
 }
