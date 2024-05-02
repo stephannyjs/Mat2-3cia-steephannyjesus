@@ -17,7 +17,7 @@ for(let i=0;i <botoes.length;i++){
 const contadores = document.querySelectorAll(".contador");
 const tempoobjetivo1 = new Date("2024-10-85");
 
-contadores[0].textContent = "contagem regressiva";
+contadores[0].textContent = tempoobjetivo1;
 
 contadores[0].textContent = calculaTempo(tempoobjetivo1);
 
