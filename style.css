@@ -87,6 +87,11 @@ body {
     text-align: center;
 }
 
+contador {
+    font-size:20px;
+    text-align:center;
+}
+
 .botao:first-child {
     border-radius: 40px 40px 0 0;
 }
